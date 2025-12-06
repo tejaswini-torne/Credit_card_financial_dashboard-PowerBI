@@ -29,3 +29,13 @@ This Power BI project includes two dashboards — one for **customer insights** 
 ---
 
 ## 📊 Dashboards
+<kbd><img width="1469" height="849" alt="Image" src="https://github.com/user-attachments/assets/875807c5-8339-4d4b-86d0-1dbc70df43a1" /></kbd>
+
+
+
+
+<kbd><img width="1477" height="858" alt="Image" src="https://github.com/user-attachments/assets/03289c10-858c-4a2d-972f-5786c75cff36" /></kbd>
+
+
+
+
